@@ -1,0 +1,5 @@
+MainPackage=D:\VisualStudioOnline\OCR Metro App\OCRApp\bin\x64\Release\OCRApp_1.1.0.1_Bundle\OCRApp_1.1.0.1_x64.appx
+SymbolPackage=D:\VisualStudioOnline\OCR Metro App\OCRApp\AppPackages\OCRApp_1.1.0.1_Test\OCRApp_1.1.0.1_x64.appxsym
+ResourcePack=D:\VisualStudioOnline\OCR Metro App\OCRApp\bin\x64\Release\OCRApp_1.1.0.1_Bundle\OCRApp_1.1.0.1_language-ru.appx
+ResourcePack=D:\VisualStudioOnline\OCR Metro App\OCRApp\bin\x64\Release\OCRApp_1.1.0.1_Bundle\OCRApp_1.1.0.1_scale-140.appx
+ResourcePack=D:\VisualStudioOnline\OCR Metro App\OCRApp\bin\x64\Release\OCRApp_1.1.0.1_Bundle\OCRApp_1.1.0.1_scale-180.appx
