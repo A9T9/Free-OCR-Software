@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="f2a7b310-0c37-48ca-b6ab-941118270105" Publisher="CN=(a9t9)" Version="1.1.0.1" />
+  <Identity Name="47971A9T9AutonomousTechno.a9t9FreeOCRSoftware" Publisher="CN=37F65A7B-EE6B-4451-9CBD-F944886C2368" Version="1.1.0.3" />
   <Properties>
     <DisplayName>(a9t9) Free OCR Software</DisplayName>
-    <PublisherDisplayName>(a9t9)</PublisherDisplayName>
+    <PublisherDisplayName>A9T9  (Autonomous Technology)</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>

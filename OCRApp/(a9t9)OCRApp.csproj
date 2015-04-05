@@ -12,7 +12,7 @@
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>OCRApp_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>%28a9t9%29OCRApp_StoreKey.pfx</PackageCertificateKeyFile>
     <TargetPlatformVersion>8.1</TargetPlatformVersion>
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <TargetFrameworkVersion />
@@ -23,7 +23,7 @@
     <NuGetPackageImportStamp>b34345ff</NuGetPackageImportStamp>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x86|x64</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>7020CB942B797DCA568DBAB3FA4987D35882A3A3</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>5940F60E57BB7A32E713015C671BEF727E4D5F3D</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -153,13 +153,11 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="%28a9t9%29OCRApp_StoreKey.pfx" />
     <None Include="Common\ReadMe.txt" />
     <None Include="OCRApp_TemporaryKey.pfx" />
     <None Include="OcrResources\MsOcrRes.orp" />
     <None Include="packages.config" />
-    <PRIResource Include="Strings\ru-RU\Resources.resw">
-      <SubType>Designer</SubType>
-    </PRIResource>
     <PRIResource Include="Strings\en-US\Resources.resw">
       <SubType>Designer</SubType>
     </PRIResource>
@@ -197,6 +195,7 @@
     <Content Include="Assets\Wide310x150Logo.scale-140.png" />
     <Content Include="Assets\Wide310x150Logo.scale-180.png" />
     <Content Include="Assets\Wide310x150Logo.scale-80.png" />
+    <None Include="Package.StoreAssociation.xml" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
