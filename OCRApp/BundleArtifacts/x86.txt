@@ -1,2 +1,2 @@
-MainPackage=D:\3github\free ocr robot\Free-OCR-Robot\OCRApp\bin\x86\Release\(a9t9)OCRApp_1.1.0.3_Bundle\(a9t9)OCRApp_1.1.0.3_x86.appx
-SymbolPackage=D:\3github\free ocr robot\Free-OCR-Robot\OCRApp\AppPackages\(a9t9)OCRApp_1.1.0.3_Test\(a9t9)OCRApp_1.1.0.3_x86.appxsym
+MainPackage=D:\3github\Free-OCR-Software\OCRApp\bin\x86\Release\(a9t9)OCRApp_1.2.0.3_Bundle\(a9t9)OCRApp_1.2.0.3_x86.appx
+SymbolPackage=D:\3github\Free-OCR-Software\OCRApp\AppPackages\(a9t9)OCRApp_1.2.0.3_Test\(a9t9)OCRApp_1.2.0.3_x86.appxsym

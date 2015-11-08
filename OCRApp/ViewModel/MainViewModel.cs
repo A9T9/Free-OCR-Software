@@ -389,10 +389,20 @@ namespace OCRApp.ViewModel
             SelectedLangues.Add("Dutch");
             SelectedLangues.Add("Danish");
             SelectedLangues.Add("English");
-            SelectedLangues.Add("Finish");
+            SelectedLangues.Add("Finnish");
+            SelectedLangues.Add("French");
             SelectedLangues.Add("German");
+            SelectedLangues.Add("Greek");
+            SelectedLangues.Add("Hungarian");
+            SelectedLangues.Add("Italian");
+            SelectedLangues.Add("Japanese");
+            SelectedLangues.Add("Korean");
+            SelectedLangues.Add("Norwegian");
+            SelectedLangues.Add("Polish");
+            SelectedLangues.Add("Portugese");
             SelectedLangues.Add("Russian");
             SelectedLangues.Add("Spanish");
+            SelectedLangues.Add("Swedish");
 
             //Dummy text to save. 
             OcrString = "--- Scanned text will be shown here ---";
